@@ -12,4 +12,6 @@ Merge (without overwritting) .js files all into one coherent .html file.
 * GNU/Linux system with bash
 ## Instructions
 Open the linkerfiles.sh file and edit the configuration file as needed. Instructions are described inside the file.
+
 Run `./jslinker.sh` in a terminal in the root directory of the jslinker.sh file.
+It will prompt you to input the name of the HTML file. Enter accordingly.
