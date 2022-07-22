@@ -3,6 +3,8 @@
 
 #This is where you put the directory of your JS files.
 files_root_directory="/home/user/projects/js-program/";
+
+# These are the files you want to merge together
 linker_files=(
     #Libraries
     "libraries/library.js"
@@ -18,4 +20,4 @@ linker_files=(
     "game/player.js"
     "game/game.js"
 )
-# The end result HTML file will be a combination of all of these files in the order they are specified
+# The end result HTML file will be a combination of all of these files in the order they are specified.
