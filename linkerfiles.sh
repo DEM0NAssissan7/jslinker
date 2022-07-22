@@ -1,5 +1,5 @@
 #!/bin/bash
-# -- WARNING -- This is an example file. Change this according to your needs.
+# -- This is an example file. Use this as a template for your config file.
 
 #This is where you put the directory of your JS files.
 files_root_directory="/home/user/projects/js-program/";
@@ -21,3 +21,8 @@ linker_files=(
     "game/game.js"
 )
 # The end result HTML file will be a combination of all of these files in the order they are specified.
+
+# The name of the HTML file you want
+file_output_name="index.html"
+# Title of the website
+website_title="Example Title"
