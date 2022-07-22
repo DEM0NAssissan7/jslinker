@@ -8,3 +8,8 @@ Merge (without overwritting) .js files all into one coherent .html file.
 ## Features
 * The code is very minimal and uses templates. These can be changed according to your use.
 * Everything is streamlined and straightforward. No hassle or extra configuration.
+## System requirements
+* GNU/Linux system with bash
+## Instructions
+Open the linkerfiles.sh file and edit the configuration file as needed. Instructions are described inside the file.
+Run `./jslinker.sh` in a terminal in the root directory of the jslinker.sh file.
